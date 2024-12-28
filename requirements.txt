@@ -6,3 +6,4 @@ transformers==4.31.0
 tqdm==4.64.1
 scikit-learn==1.2.0
 spacy==3.5.2
+symspellpy==6.7.8
