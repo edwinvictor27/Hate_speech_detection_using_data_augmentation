@@ -12,6 +12,8 @@ scikit-learn==1.6.0
 spacy==3.5.2
 symspellpy==6.7.8
 tensorflow==2.18.0
+tensorflow-hub==0.16.1
+textattack==0.3.10
 tf-keras==2.15.0
 keras==3.7.0
 tensorflow_addons==0.22.0
